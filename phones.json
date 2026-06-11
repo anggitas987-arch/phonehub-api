@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 11",
+    "brand": "Apple",
+    "price": 6500000,
+    "img": "image/ip11.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 11 Pro",
+    "brand": "Apple",
+    "price": 7300000,
+    "img": "image/ip11pro.jpg"
+  },
+    {
+    "id": 3,
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "price": 7900000,
+    "img": "image/ip13.jpg"
+  },
+    {
+    "id": 4,
+    "name": "iPhone 13 Pro",
+    "brand": "Apple",
+    "price": 9000000,
+    "img": "image/ip13pro.jpg"
+  },
+    {
+    "id": 5,
+    "name": "Iphone 15",
+    "brand": "Apple",
+    "price": 12500000 ,
+    "img": "image/ip15.jpg"
+  },
+    {
+    "id": 6,
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "price": 13400000,
+    "img": "image/ip15pro.jpg"
+  },
+    {
+    "id": 7,
+    "name": "Iphone 17 Pro Max",
+    "brand": "Apple",
+    "price": 28900000,
+    "img": "image/ip17promax.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "price": 13700000,
+    "img": "image/samsung24ultra.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Galaxy Z Fold 7",
+    "brand": "Samsung",
+    "price": 23500000,
+    "img": "image/samsungzfold7.jpg"
+  },
+   {
+    "id": 10,
+    "name": "Galaxy Z Flip 5",
+    "brand": "Samsung",
+    "price": 7500000,
+    "img": "image/samsungzflip5.jpg"
+  },
+   {
+    "id": 11,
+    "name": "Galaxy S23+",
+    "brand": "Samsung",
+    "price": 6750000,
+    "img": "image/samsungs23+.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Xiaomi 15 Ultra",
+    "brand": "Xiaomi",
+    "price": 15000000,
+    "img": "image/xiaomi15ultra.jpg"
+  },
+    {
+    "id": 13,
+    "name": "Xiaomi 17 Pro Max",
+    "brand": "Xiaomi",
+    "price": 21000000,
+    "img": "image/xiaomi17promax.jpg"
+  },
+  {
+    "id": 14,
+    "name": "ROG Phone 9 Pro",
+    "brand": "Asus",
+    "price": 8200000,
+    "img": "image/asusrog9.jpg"
+  },
+    {
+    "id": 15,
+    "name": "Redmagic 11 Pro",
+    "brand": "Nubia",
+    "price": 9500000,
+    "img": "image/redmagic11pro.png"
+  }
+]

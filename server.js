@@ -2,7 +2,7 @@
 const express = require("express");
 const cors = require("cors");
 const fs = require("fs");
-
+const PORT = process.env.PORT || 3000;
 const app = express();
 app.use(cors());
 app.use(express.json());
@@ -14,4 +14,6 @@ app.get("/api/phones", (req,res)=>{
   });
 });
 
-app.listen(3000, ()=>console.log("API berjalan di port 3000"));
+app.listen(PORT, () => {
+  console.log(`Server berjalan di port ${PORT}`);
+});

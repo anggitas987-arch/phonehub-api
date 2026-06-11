@@ -1,0 +1,66 @@
+body.dark-mode{
+    background:#121212;
+    color:white;
+}
+
+body.dark-mode .card,
+body.dark-mode .modal-content{
+    background:#1e1e1e;
+    color:white;
+}
+
+body{
+    background-image: url("../image/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card{
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.image-box{
+    height:250px;
+    background:#fff;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    overflow:hidden;
+    padding:10px;
+}
+
+.image-box img{
+    width:100%;
+    height:100%;
+    object-fit:contain;
+}
+
+.list-view .card{
+    flex-direction:row;
+}
+
+.list-view .image-box{
+    width:250px;
+    height:220px;
+    flex-shrink:0;
+}
+
+@media(max-width:768px){
+
+    .list-view .card{
+        flex-direction:column;
+    }
+
+    .list-view .image-box{
+        width:100%;
+        height:250px;
+    }
+
+}

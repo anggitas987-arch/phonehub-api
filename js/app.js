@@ -55,7 +55,7 @@ function render(){
 
     container.innerHTML = data.map(phone => `
     
-        <div class="${list ? 'col-12' : 'col-md-4'}">
+        <div class="${list ? 'col-12' : 'col-lg-4 col-md-6 col-6'}">
 
             <div class="card h-100">
 

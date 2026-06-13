@@ -1,7 +1,7 @@
 let phones = [];
 let list = false;
 
-fetch("http://localhost:3000/api/phones")
+fetch("https://phonehub-api-production.up.railway.app/api/phones")
 .then(response => response.json())
 .then(data => {
 
@@ -128,7 +128,7 @@ function detail(id){
         ${phone.description || "Deskripsi belum tersedia"}
     </p>
 `;
-    
+
     new bootstrap.Modal(
         document.getElementById("detailModal")
     ).show();

@@ -4,7 +4,12 @@ const cors = require("cors");
 const fs = require("fs");
 const PORT = process.env.PORT || 3000;
 const app = express();
-app.use(cors());
+app.use(cors({
+    origin: [
+        "http://127.0.0.1:5500",
+        "https://listingphone-gitaphone.netlify.app"
+    ]
+}));
 app.use(express.json());
 
 app.get("/api/phones", (req,res)=>{

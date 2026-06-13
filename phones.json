@@ -4,7 +4,9 @@
     "name": "iPhone 11",
     "brand": "Apple",
     "price": 6500000,
-    "img": "image/ip11.jpg"
+    "img": "image/ip11.jpg",
+    "description": "iPhone 11 hadir dengan layar Liquid Retina HD 6,1 inci, chip A13 Bionic, dan kamera ganda 12MP yang mampu menghasilkan foto berkualitas tinggi."
+  },
   },
   {
     "id": 2,

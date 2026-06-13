@@ -12,97 +12,111 @@
     "name": "iPhone 11 Pro",
     "brand": "Apple",
     "price": 7300000,
-    "img": "image/ip11pro.jpg"
+    "img": "image/ip11pro.jpg",
+    "description": "iPhone 11 Pro adalah ponsel flagship yang dirilis Apple pada September 2019. Menjadi varian kelas atas dari seri iPhone 11, ponsel ini menonjol berkat layar OLED Super Retina XDR 5,8 inci, bodi baja tahan karat (stainless steel) dengan kaca belakang matte, dan formasi tiga kamera belakang 12 MP yang sangat tangguh."
   },
     {
     "id": 3,
     "name": "iPhone 13",
     "brand": "Apple",
     "price": 7900000,
-    "img": "image/ip13.jpg"
+    "img": "image/ip13.jpg",
+       "description": "iPhone 13 adalah ponsel pintar andalan Apple yang dirilis pada September 2021. Tetap menjadi pilihan populer, ponsel ini ditenagai chipset A15 Bionic, memiliki layar OLED Super Retina XDR 6,1 inci, dan dilengkapi kamera ganda diagonal 12 MP dengan fitur Cinematic Mode."
   },
     {
     "id": 4,
     "name": "iPhone 13 Pro",
     "brand": "Apple",
     "price": 9000000,
-    "img": "image/ip13pro.jpg"
+    "img": "image/ip13pro.jpg",
+    "description": "iPhone 13 Pro hadir dengan layar Super Retina XDR 6,1 inci berteknologi ProMotion 120Hz, ditenagai chipset A15 Bionic (GPU 5-core), dan RAM 6 GB. Fitur utamanya mencakup tiga kamera belakang 12 MP dengan sensor LiDAR, perekaman video ProRes, serta material bodi dari baja tahan karat dan Ceramic Shield."
   },
     {
     "id": 5,
     "name": "Iphone 15",
     "brand": "Apple",
     "price": 12500000 ,
-    "img": "image/ip15.jpg"
+    "img": "image/ip15.jpg",
+    "description": "iPhone 15 adalah salah satu smartphone andalan Apple yang mengusung peningkatan signifikan berkat kehadiran fitur interaktif Dynamic Island dan port USB-C. Menggunakan bodi belakang kaca bertekstur matte dengan tepian melengkung, ponsel ini ditenagai chipset A16 Bionic yang tangguh untuk berbagai aktivitas."
   },
     {
     "id": 6,
     "name": "iPhone 15 Pro",
     "brand": "Apple",
     "price": 13400000,
-    "img": "image/ip15pro.jpg"
+    "img": "image/ip15pro.jpg",
+    "description": "iPhone 15 Pro adalah ponsel pintar kelas atas dari Apple yang dirilis pada akhir 2023. Perangkat ini hadir dengan desain revolusioner berbodi titanium sekelas industri dirgantara, membuatnya sangat kuat namun lebih ringan. Ditenagai oleh chip Apple A17 Pro (3 nm) dan RAM 8 GB, ponsel ini juga beralih dari port Lightning ke USB-C."
   },
     {
     "id": 7,
     "name": "Iphone 17 Pro Max",
     "brand": "Apple",
     "price": 28900000,
-    "img": "image/ip17promax.jpg"
+    "img": "image/ip17promax.jpg",
+    "description": "iPhone 17 Pro Max adalah salah satu model flagship tertinggi Apple. Ponsel ini hadir dengan layar Super Retina XDR 6,9 inci, ditenagai chip A19 Pro dengan sistem pendingin ruang uap (vapor chamber), dan dilengkapi kamera telefoto 48 MP yang mendukung zoom optik hingga 8x."
   },
   {
     "id": 8,
     "name": "Galaxy S24 Ultra",
     "brand": "Samsung",
     "price": 13700000,
-    "img": "image/samsung24ultra.jpg"
+    "img": "image/samsung24ultra.jpg",
+    "description": "Samsung Galaxy S24 Ultra adalah ponsel flagship tertinggi dari Samsung yang menggabungkan bodi premium berbahan titanium dengan teknologi kecerdasan buatan terdepan melalui Galaxy AI. Ponsel ini dilengkapi dengan layar datar 6,8 inci Dynamic LTPO AMOLED 2X, prosesor Snapdragon 8 Gen 3 for Galaxy, dan sistem kamera luar biasa hingga 200 MP."
   },
   {
     "id": 9,
     "name": "Galaxy Z Fold 7",
     "brand": "Samsung",
     "price": 23500000,
-    "img": "image/samsungzfold7.jpg"
+    "img": "image/samsungzfold7.jpg",
+    "description": "Samsung Galaxy Z Fold 7 adalah ponsel lipat unggulan yang sangat tipis, ditenagai oleh chipset kencang Snapdragon 8 Elite, serta dilengkapi teknologi kamera 200 MP. Perangkat ini hadir dengan layar utama 8 inci yang luas serta layar penutup 6,5 inci, yang didukung oleh fitur-fitur pintar Galaxy AI."
   },
    {
     "id": 10,
     "name": "Galaxy Z Flip 5",
     "brand": "Samsung",
     "price": 7500000,
-    "img": "image/samsungzflip5.jpg"
+    "img": "image/samsungzflip5.jpg",
+    "description": "Samsung Galaxy Z Flip 5 adalah ponsel pintar lipat bergaya clamshell yang dirilis pada Juli 2023 dengan peningkatan terbesar pada layar sekunder (cover screen) yang lebih besar dan engsel tanpa celah. Perangkat ini menggunakan chipset Snapdragon 8 Gen 2 for Galaxy, RAM 8 GB, dan dua kamera belakang 12 MP."
   },
    {
     "id": 11,
     "name": "Galaxy S23+",
     "brand": "Samsung",
     "price": 6750000,
-    "img": "image/samsungs23+.jpg"
+    "img": "image/samsungs23+.jpg",
+    "description": "Samsung Galaxy S23+ adalah ponsel pintar flagship yang ditenagai chipset Snapdragon 8 Gen 2 for Galaxy. Perangkat ini hadir dengan layar Dynamic AMOLED 2X 6,6 inci, kamera utama 50 MP, serta baterai 4700 mAh yang mendukung pengisian cepat."
   },
   {
     "id": 12,
     "name": "Xiaomi 15 Ultra",
     "brand": "Xiaomi",
     "price": 15000000,
-    "img": "image/xiaomi15ultra.jpg"
+    "img": "image/xiaomi15ultra.jpg",
+    "description": "Xiaomi 15 Ultra adalah smartphone flagship premium dengan kamera Leica berteknologi tinggi, performa sangat kencang, layar AMOLED 120Hz berkualitas tinggi, serta baterai besar dengan pengisian daya super cepat."
   },
     {
     "id": 13,
     "name": "Xiaomi 17 Pro Max",
     "brand": "Xiaomi",
     "price": 21000000,
-    "img": "image/xiaomi17promax.jpg"
+    "img": "image/xiaomi17promax.jpg",
+    "description": "Xiaomi 17 Pro Max adalah smartphone flagship premium dengan layar AMOLED 6,9 inci 120Hz, chipset Snapdragon 8 Elite Gen 5, kamera Leica 50MP, baterai besar 7.500mAh, serta pengisian cepat 100W yang dirancang untuk performa tinggi, fotografi profesional, dan penggunaan seharian penuh."
   },
   {
     "id": 14,
     "name": "ROG Phone 9 Pro",
     "brand": "Asus",
     "price": 8200000,
-    "img": "image/asusrog9.jpg"
+    "img": "image/asusrog9.jpg",
+    "description": "ASUS ROG Phone 9 Pro adalah smartphone gaming premium yang ditenagai chipset Snapdragon 8 Elite, layar AMOLED 6,78 inci hingga 185Hz, baterai besar, AirTrigger untuk kontrol game, serta sistem pendingin canggih yang memberikan performa maksimal untuk bermain game dan multitasking berat."
   },
     {
     "id": 15,
     "name": "Redmagic 11 Pro",
     "brand": "Nubia",
     "price": 9500000,
-    "img": "image/redmagic11pro.png"
+    "img": "image/redmagic11pro.png",
+    "description": "REDMAGIC 11 Pro adalah smartphone gaming premium yang dibekali chipset Snapdragon 8 Elite Gen 5, layar AMOLED 6,85 inci 144Hz, baterai 7.500mAh, sistem pendingin cair dan kipas aktif, serta fitur gaming lengkap untuk memberikan performa maksimal saat bermain game berat."
   }
 ]

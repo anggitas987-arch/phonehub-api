@@ -107,17 +107,27 @@ function detail(id){
     document.getElementById("modalBody")
         .innerHTML = `
         
-            <img
-                src="${phone.img}"
-                class="img-fluid mb-3">
+          <img
+        src="${phone.img}"
+        class="img-fluid mb-3"
+        style="max-height:250px; display:block; margin:auto;"
+    >
 
-            <p><b>Merek:</b> ${phone.brand}</p>
+    <p><b>Merek:</b> ${phone.brand}</p>
 
-            <p>
-                <b>Harga:</b>
-                Rp ${phone.price.toLocaleString('id-ID')}
-            </p>
-        `;
+    <p>
+        <b>Harga:</b>
+        Rp ${phone.price.toLocaleString('id-ID')}
+    </p>
+
+    <hr>
+
+    <h5>Deskripsi Produk</h5>
+
+    <p>
+        ${phone.description || "Deskripsi belum tersedia"}
+    </p>
+`;
     
     new bootstrap.Modal(
         document.getElementById("detailModal")
